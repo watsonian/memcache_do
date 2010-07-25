@@ -17,8 +17,15 @@ Gem::Specification.new do |s|
      "README.md"
   ]
   s.files = [
-    "README.md",
-     "memcache_do.rb"
+    "LICENSE",
+     "README.md",
+     "Rakefile",
+     "VERSION",
+     "lib/memcachedo.rb",
+     "memcache_do.gemspec",
+     "memcache_do.rb",
+     "test/helper.rb",
+     "test/test_memcache_do.rb"
   ]
   s.homepage = %q{http://github.com/watsonian/memcache_do}
   s.rdoc_options = ["--charset=UTF-8"]

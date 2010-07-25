@@ -1,6 +1,6 @@
 # MemcacheDo
 
-This is a lightweight library that lets you execute ad hoc memcache commands to a designated host and port.
+This is a lightweight library that lets you execute ad hoc memcache commands to a designated host and port. This code was extracted from the [memcache-client](http://github.com/mperham/memcache-client) library.
 
 ## Usage
 
